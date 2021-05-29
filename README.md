@@ -3,7 +3,7 @@
 This Repository is a collection of Implementation documents. 
 
 ### Purpose:
-By following this repository you'll be able to setup a DevOps CI/CD Pipeline using
+By following this repository, you'll be able to setup a DevOps CI/CD Pipeline using
 - git
 - Jenkins
 - Maven
